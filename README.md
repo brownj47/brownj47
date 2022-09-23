@@ -9,7 +9,7 @@ Full Stack Web Developer with a background in Biology/Healthcare. Skills include
 |[Portfolio](https://brownj47.github.io/portfolio/)|[VivaChat](https://vivachat.herokuapp.com/)|[DnD Machine](https://knight19jonathan.github.io/Adventure-Game-Project-/)|
 |---|---|---|
 |![Portolio Home Screen](./sshotport.png)|![VivaChat Home Screen](./vivachat.png)|![DnD Machine Home Screen](./dndMachine.png)|
-|My portfolio page showcasing past projects. Built with React. |A video and group chat application for the browser. Features a randomized chatroom button. |A simple turn-based game for the browser. Based on DnD.|
+|My portfolio page showcasing past projects. Built with React. |A video and group chat application for the browser. Features a randomized chatroom button. Built with Handlebars, Peer.js (WebRTC), and Socket.io (WebSockets). |A simple turn-based game for the browser based on DnD.|
 
 ## Skills & Stats
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,bootstrap,jquery)](https://skillicons.dev)
