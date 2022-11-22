@@ -12,7 +12,7 @@ Full Stack Web Developer with a background in Biology/Healthcare. Skills include
 |My portfolio page showcasing past projects. Built with React. |A video and group chat application for the browser. Features a randomized chatroom button. Built with Handlebars, Peer.js (WebRTC), and Socket.io (WebSockets). |A simple turn-based game for the browser based on DnD.|
 
 ## Skills & Stats
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,mongodb,mysql,nodejs,vscode,react,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,mongodb,mysql,nodejs,vscode,react,vue,bootstrap,jquery)](https://skillicons.dev)
 
 ![handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
