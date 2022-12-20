@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Full Stack Developer
-Full Stack Web Developer with a background in Biology/Healthcare. Skills include JavaScript (Node.js, React.js), HTML, CSS, and SQL/NoSQL/MongoDB. Graduate from the University of Washington’s Full Stack Web Development Certificate. Interested in the intersection of technology and biology. A creative and thorough problem-solver with a ready-to-learn attitude. Managed a project with two other members that was voted best UI/UX and People’s Choice for Best Application. Passionate about utility, beauty, and a positive user experience.
+Full Stack Web Developer with a background in Biology/Healthcare. Skills include JavaScript (Node.js, React.js), HTML, CSS, and SQL/NoSQL/MongoDB. Graduate from the University of Washington’s Full Stack Web Development Certificate. Interested in the intersection of technology and biology. A creative and thorough problem-solver with a ready-to-learn attitude. Passionate about utility, beauty, and a positive user experience.
 
 📫 You can reach me directly at justus.c.brown@gmail.com
 
