@@ -10,8 +10,6 @@ I am interested in roles that allow me to combine my technical prowess with my b
 I'm deeply passionate about continual learning and I do my best work when I know I am making meaningful contributions to my team and the product. I strive to write clean, maintainable and efficient code to provide a seamless UX/DX.
 📫 You can reach me directly at justus.c.brown@gmail.com
 
-## Highlights
-
 ## Skills & Stats
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,aws,css,tailwind,bootstrap,bash,docker,jest,github,git,heroku,mongodb,mysql,dynamodb,nodejs,vscode,jquery,html,react,vue,)](https://skillicons.dev)
