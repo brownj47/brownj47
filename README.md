@@ -8,6 +8,7 @@ Driven by the endless possibilities of technology, I transitioned from a career 
 I am interested in roles that allow me to combine my technical prowess with my background in healthcare, biology, and research to bring a unique perspective to every project. 
 
 I'm deeply passionate about continual learning and I do my best work when I know I am making meaningful contributions to my team and the product. I strive to write clean, maintainable and efficient code to provide a seamless UX/DX.
+
 📫 You can reach me directly at justus.c.brown@gmail.com
 
 ## Skills & Stats
