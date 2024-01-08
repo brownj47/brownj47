@@ -13,7 +13,7 @@ I'm deeply passionate about continual learning and I do my best work when I know
 
 ## Skills & Stats
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,aws,css,tailwind,bootstrap,bash,docker,jest,github,git,heroku,mongodb,mysql,dynamodb,nodejs,vscode,jquery,html,react,vue,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,aws,react,tailwind,css,bootstrap,bash,docker,jest,github,git,heroku,mongodb,mysql,dynamodb,nodejs,vscode,jquery,html,vue,)](https://skillicons.dev)
 
 ![handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
