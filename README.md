@@ -1,17 +1,22 @@
-### Hi there 👋
+# About Me
+I'm Justus Brown, an adaptable and resourceful Biomedical Software Engineer with a broad and evolving skillset. My background spans software engineering, research, and hands-on lab work, allowing me to bridge the gap between technology and biology. I thrive in dynamic environments, quickly learning the tools and concepts I need to solve problems. 
 
-## Biomedical Software Engineer
-Entry-Level Biomedical engineer specializing in device development and diagnostic research. Leveraging technology to advance medicine and deepen our understanding of biological systems.
+Whether developing cloud-based microservices, optimizing lab protocols, or analyzing data, I bring curiosity, efficiency, and a drive to build impactful solutions.
 
 📫 You can reach me directly at justus.brown.dev@gmail.com
 
 ## Skills & Stats
+**Programming Languages & Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,bash,git,github,js,ts,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,aws,react,tailwind,css,bootstrap,bash,docker,jest,github,git,heroku,mongodb,mysql,dynamodb,nodejs,vscode,jquery,html,vue,)](https://skillicons.dev)
+**Web Development:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
 
-![handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+**Databases & Cloud:**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,aws)](https://skillicons.dev)
+
+**Hardware & OS:**  
+[![My Skills](https://skillicons.dev/icons?i=arduino,linux)](https://skillicons.dev)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brownj47&theme=vue)
 ![](https://github-readme-stats.vercel.app/api?username=brownj47)
